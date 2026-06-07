@@ -50,7 +50,7 @@ Greetings. I am **Madina**, a student of **Computer Engineering** who views soft
 ---
 
 <div align="center">
-  <sub>Crafted with meticulous care, poise, and devotion to clean logic. 💫</sub>
+  <sub>Crafted with meticulous care, poise, and devotion to clean logic </sub>
 </div>
 
 <!--
