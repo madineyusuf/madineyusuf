@@ -1,4 +1,4 @@
-#🏛️ Welcome to my digital atelier
+# Welcome to my digital atelier 🏛️
 
 <div align="center">
 <img src="https://i.pinimg.com/1200x/69/50/13/695013a093d9a0c06bc35aa5400d8cd3.jpg" width="80%" alt="Header Image" style="border-radius: 4px;"/>
@@ -39,10 +39,5 @@ Greetings. I am **Madina**, a student of **Computer Engineering** who views soft
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
----
-
-<div align="center">
-  <sub>Crafted with meticulous care, poise, and devotion to clean logic </sub>
-</div>
 
 
