@@ -11,7 +11,7 @@
 
 ##  About My Journey
 
-Greetings. I am **Madina**, a student of **Computer Engineering** who views software development not merely as a technical discipline, but as a refined art form. I believe that engineering requires the same grace, patience, and dedication as classical poetry or painting. Guided by Stoic philosophy, I strive to approach complex algorithmic challenges with composure, precision, and an unwavering commitment to excellence.
+Greetings. I am a student of **Computer Engineering** who views software development not only merely as a technical discipline, but as a refined art form. I believe that engineering requires the same grace, patience, and dedication as classical poetry or painting. Guided by Stoic philosophy, I strive to approach complex algorithmic challenges with composure, precision, and an unwavering commitment to excellence.
 
 *    **Current Pursuits:** Delving into the intricate elegance of low-level systems, robust database architectures, and the vital principles of cybersecurity.
 *    **Beyond the Screen:** I find immense solace and inspiration in classical literature, philosophical inquiries, and the fine arts. Cultivating a well-rounded mind is, to me, the truest form of education.
