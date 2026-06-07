@@ -1,7 +1,7 @@
 # Welcome to my digital atelier 🏛️
 
 <div align="center">
-<img src="https://i.pinimg.com/1200x/69/50/13/695013a093d9a0c06bc35aa5400d8cd3.jpg" width="80%" alt="Header Image" style="border-radius: 4px;"/>
+<img src="https://i.pinimg.com/1200x/69/50/13/695013a093d9a0c06bc35aa5400d8cd3.jpg" width="50%" alt="Header Image" style="border-radius: 4px;"/>
   <br><br>
   💡 <i>"Observe constantly that all things take place by change, and accustom thyself to consider that the nature of the Universe loves nothing so much as to change the things which are, and to make new things like them." — Marcus Aurelius</i>
 </div>
