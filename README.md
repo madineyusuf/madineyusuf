@@ -1,4 +1,4 @@
-# ✨ Welcome to my digital atelier
+#🏛️ Welcome to my digital atelier
 
 <div align="center">
 <img src="https://i.pinimg.com/1200x/69/50/13/695013a093d9a0c06bc35aa5400d8cd3.jpg" width="80%" alt="Header Image" style="border-radius: 4px;"/>
@@ -8,13 +8,13 @@
 
 ---
 
-## 🏛️ About My Journey
+##  About My Journey
 
 Greetings. I am **Madina**, a student of **Computer Engineering** who views software development not merely as a technical discipline, but as a refined art form. I believe that engineering requires the same grace, patience, and dedication as classical poetry or painting. Guided by Stoic philosophy, I strive to approach complex algorithmic challenges with composure, precision, and an unwavering commitment to excellence.
 
-*   🌱 **Current Pursuits:** Delving into the intricate elegance of low-level systems, robust database architectures, and the vital principles of cybersecurity.
-*   🎨 **Beyond the Screen:** I find immense solace and inspiration in classical literature, philosophical inquiries, and the fine arts. Cultivating a well-rounded mind is, to me, the truest form of education.
-*   ⚖️ **My Philosophy:** Order in intellect brings harmony to code.
+*    **Current Pursuits:** Delving into the intricate elegance of low-level systems, robust database architectures, and the vital principles of cybersecurity.
+*    **Beyond the Screen:** I find immense solace and inspiration in classical literature, philosophical inquiries, and the fine arts. Cultivating a well-rounded mind is, to me, the truest form of education.
+*    **My Philosophy:** Order in intellect brings harmony to code.
 
 ---
 
@@ -41,29 +41,8 @@ Greetings. I am **Madina**, a student of **Computer Engineering** who views soft
 
 ---
 
-## 📈 Analysis & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=calm&hide_border=true" alt="GitHub Stats" />
-</div>
-
----
-
 <div align="center">
   <sub>Crafted with meticulous care, poise, and devotion to clean logic </sub>
 </div>
 
-<!--
-**madineyusuf/madineyusuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
