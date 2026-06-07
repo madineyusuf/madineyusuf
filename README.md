@@ -16,6 +16,7 @@ Greetings. I am **Madina**, a student of **Computer Engineering** who views soft
 *    **Current Pursuits:** Delving into the intricate elegance of low-level systems, robust database architectures, and the vital principles of cybersecurity.
 *    **Beyond the Screen:** I find immense solace and inspiration in classical literature, philosophical inquiries, and the fine arts. Cultivating a well-rounded mind is, to me, the truest form of education.
 *    **My Philosophy:** Order in intellect brings harmony to code.
+*    You can ask me question & communicate with me in English, Russian/Ukrainian, Turkish(&other Turkic lang), Farsi/Tajiki, and little bit Arabic(Fusha)
 
 ---
 
