@@ -44,7 +44,7 @@ Greetings. I am a student of **Computer Engineering** who views software develop
 <div align="center">
   
 <img src="https://i.pinimg.com/1200x/04/0c/72/040c72ad117539fb333730c8d4f6b250.jpg" width="100%"  style="border-radius: 4px;"/>
-<sub> By Pearl </sub>
+<sub> ~By Pearl~ </sub>
   <br><br>
 </div>
 
