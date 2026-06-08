@@ -41,5 +41,12 @@ Greetings. I am a student of **Computer Engineering** who views software develop
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+<div align="center">
+  
+<sub> <img src="https://https://i.pinimg.com/1200x/3e/7e/ac/3e7eacc97907ed3ba434de6eaeb92273.jpg" width="100%" alt="Header Image" style="border-radius: 4px;"/> </sub>
+  <br><br>
+   <i>"Observe constantly that all things take place by change, and accustom thyself to consider that the nature of the Universe loves nothing so much as to change the things which are, and to make new things like them." — Marcus Aurelius</i>
+</div>
+
 
 
