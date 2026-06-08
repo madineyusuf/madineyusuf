@@ -43,7 +43,7 @@ Greetings. I am a student of **Computer Engineering** who views software develop
 
 <div align="center">
   
-<sub> <img src="[https://https://i.pinimg.com/1200x/04/0c/72/040c72ad117539fb333730c8d4f6b250.jpg" width="100%"  style="border-radius: 4px;"/> </sub>
+<img src="https://https://i.pinimg.com/1200x/04/0c/72/040c72ad117539fb333730c8d4f6b250.jpg" width="100%"  style="border-radius: 4px;"/>
   <br><br>
 </div>
 
