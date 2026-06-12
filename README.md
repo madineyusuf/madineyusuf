@@ -44,6 +44,8 @@ Greetings. I am a student of **Computer Engineering** who views software develop
 <div align="center">
   
 <img width="800" height="248" alt="gül" src="https://github.com/user-attachments/assets/3405bf4f-a3ba-4876-8b6d-bbc9fb58736e" />
+
+<div align="center">
 <sub> ~By Pearl~ </sub>
   <br><br>
 </div>
