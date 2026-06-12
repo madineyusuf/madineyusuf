@@ -8,7 +8,7 @@
 </div>
 
 ---
-<img src="https://i.pinimg.com/originals/c4/34/4c/c4344c2c184b648e576fb81971111e34.gif" alt="Header Image" style="border-radius: 10px;" width = 50% align="right"/>
+<img src="https://i.pinimg.com/originals/c4/34/4c/c4344c2c184b648e576fb81971111e34.gif" alt="Header Image" style="border-radius: 10px;" width = 30% align="right"/>
 
 ##  About My Journey
 
