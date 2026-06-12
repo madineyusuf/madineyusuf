@@ -41,7 +41,7 @@ Greetings. I am a student of **Computer Engineering** who views software develop
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-
+https://i.pinimg.com/webp87/736x/70/71/18/707118aad0900911c94ee3cc3582df48.webp
 
 <div align="center">
 <sub> ~By Pearl~ </sub>
