@@ -42,9 +42,7 @@ Greetings. I am a student of **Computer Engineering** who views software develop
 </p>
 
 <div align="center">
-  
-<img width="800" height="248" alt="gül-removebg-preview" src="https://github.com/user-attachments/assets/de124a9e-220b-4637-9b91-079183c60a33" />
-
+  /Users/madineyusuf/Desktop/sticker.webp
 <div align="center">
 <sub> ~By Pearl~ </sub>
   <br><br>
