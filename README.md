@@ -1,3 +1,4 @@
+<img width="800" height="248" alt="gül" src="https://github.com/user-attachments/assets/9a7e834e-ef1f-44ae-a150-04d6bd960cef" />
 # <i> Welcome to my digital atelier </i> 🏛️
 
 <div align="center">
@@ -41,7 +42,8 @@ Greetings. I am a student of **Computer Engineering** who views software develop
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-/Users/madineyusuf/Desktop/gül.png
+<img width="512" height="154" alt="sticker" src="https://github.com/user-attachments/assets/2398c204-7535-4cb7-996c-f4e83a96b9a6" />
+
 
 <div align="center">
 <sub> ~By Pearl~ </sub>
