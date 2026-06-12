@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="[https://i.pinimg.com/1200x/64/5e/e5/645ee51be6049a8f993c17df1552020a.jpg](https://ru.pinterest.com/pin/674062269260437722/)" width="100%" alt="Header Image" style="border-radius: 4px;"/>
+<img src="https://i.pinimg.com/1200x/64/5e/e5/645ee51be6049a8f993c17df1552020a.jpg" width="100%" alt="Header Image" style="border-radius: 4px;"/>
   <br><br>
    <i>"Observe constantly that all things take place by change, and accustom thyself to consider that the nature of the Universe loves nothing so much as to change the things which are, and to make new things like them." — Marcus Aurelius</i>
 </div>
