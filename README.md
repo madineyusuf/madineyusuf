@@ -8,7 +8,7 @@
 </div>
 
 ---
-<img src="https://i.pinimg.com/originals/c4/34/4c/c4344c2c184b648e576fb81971111e34.gif" alt="Header Image" style="border-radius: 4px; allign: right"/>
+<img src="https://i.pinimg.com/originals/c4/34/4c/c4344c2c184b648e576fb81971111e34.gif" alt="Header Image" style="border-radius: 4px; align: "right""/>
 ##  About My Journey
 
 Greetings. I am a student of **Computer Engineering** who views software development not only merely as a technical discipline, but as a refined art form. I believe that engineering requires the same grace, patience, and dedication as classical poetry or painting. Guided by Stoic philosophy, I strive to approach complex algorithmic challenges with composure, precision, and an unwavering commitment to excellence.
