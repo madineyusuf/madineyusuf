@@ -14,7 +14,8 @@
 
 ##  About My Journey
 
-<img src="https://i.pinimg.com/originals/74/9b/95/749b9521a2d28907f7b0fc79598cc420.gif"  style="float: right; width: 35%; margin-left: 45px;">
+<img src="https://i.pinimg.com/originals/74/9b/95/749b9521a2d28907f7b0fc79598cc420.gif" align="right" width="35%" style="margin-left: 45px;" />
+
 <p>Greetings. I am a student of <b>Computer Engineering</b> who views software development not only merely as a technical discipline, but as a refined art form. I believe that engineering requires the same grace, patience, and dedication as classical poetry or painting. Guided by Stoic philosophy, I strive to approach complex algorithmic challenges with composure, precision, and an unwavering commitment to excellence.</p>
 
 ----------
