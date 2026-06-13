@@ -26,7 +26,7 @@
 
 ---
 
-## The Technical Atelier
+## Technical Side
 
 ### Languages & Core Architecture
 <p align="left">
