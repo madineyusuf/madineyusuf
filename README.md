@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/PHP-007ACF?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/PHP-007ACF?style=flat-square&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
 ### Web Artistry & Environment
